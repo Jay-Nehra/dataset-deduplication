@@ -1,0 +1,4 @@
+2024-05-08 15:37:06.329 | INFO     | __main__:main:172 - Starting deduplication for healthcare.csv with 16412 records.
+2024-05-08 15:38:02.427 | INFO     | __main__:main:174 - Deduplication complete for healthcare.csv. 14015 records kept, 2409 records pruned.
+2024-05-08 15:38:02.676 | INFO     | __main__:main:172 - Starting deduplication for psychology.csv with 9846 records.
+2024-05-08 15:38:46.557 | INFO     | __main__:main:174 - Deduplication complete for psychology.csv. 5555 records kept, 4549 records pruned.

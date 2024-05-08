@@ -1,0 +1,19 @@
+settings:
+  input_directory: "./source"
+  output_directory: "./output"
+  deduped_directory: "./output"
+  jaccard_threshold: 0.9
+  num_permutations: 1024
+  semantic_deduplication_threshold: 0.5
+
+categories:
+  - name: "healthcare"
+    datasets:
+      - name: "General Healthcare Questions and Answers"
+        file_name: "healthcare.csv"
+        deduplication_column: "question"
+  - name: "psychology"
+    datasets:
+      - name: "psychology Questions and Answers"
+        file_name: "psychology.csv"
+        deduplication_column: "question"

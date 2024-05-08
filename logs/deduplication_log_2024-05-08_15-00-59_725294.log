@@ -1,0 +1,5 @@
+2024-05-08 15:01:00.609 | INFO     | __main__:main:172 - Starting deduplication for healthcare.csv with 16412 records.
+2024-05-08 15:02:04.400 | INFO     | __main__:main:174 - Deduplication complete for healthcare.csv. 14015 records kept, 2409 records pruned.
+2024-05-08 15:02:04.679 | INFO     | __main__:main:172 - Starting deduplication for psychology.csv with 9846 records.
+2024-05-08 15:02:56.312 | INFO     | __main__:main:174 - Deduplication complete for psychology.csv. 5555 records kept, 4549 records pruned.
+2024-05-08 15:02:56.354 | ERROR    | __main__:main:164 - File not found: ./source/essay.csv
